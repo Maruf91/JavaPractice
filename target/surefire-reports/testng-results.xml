@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="77" started-at="2019-10-08T11:40:28 IST" finished-at="2019-10-08T11:40:28 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="77" started-at="2019-10-08T11:40:28 IST" finished-at="2019-10-08T11:40:28 IST">
+      <class name="qaclickacademy.AppiumTest">
+        <test-method status="PASS" signature="IOSTest()[pri:0, instance:qaclickacademy.AppiumTest@1e397ed7]" name="IOSTest" duration-ms="0" started-at="2019-10-08T11:40:28 IST" finished-at="2019-10-08T11:40:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSTest -->
+        <test-method status="PASS" signature="androidtest()[pri:0, instance:qaclickacademy.AppiumTest@1e397ed7]" name="androidtest" duration-ms="0" started-at="2019-10-08T11:40:28 IST" finished-at="2019-10-08T11:40:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- androidtest -->
+      </class> <!-- qaclickacademy.AppiumTest -->
+      <class name="qaclickacademy.APITest">
+        <test-method status="PASS" signature="deletetwitter()[pri:0, instance:qaclickacademy.APITest@3f49dace]" name="deletetwitter" duration-ms="12" started-at="2019-10-08T11:40:28 IST" finished-at="2019-10-08T11:40:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletetwitter -->
+        <test-method status="PASS" signature="postjira()[pri:0, instance:qaclickacademy.APITest@3f49dace]" name="postjira" duration-ms="0" started-at="2019-10-08T11:40:28 IST" finished-at="2019-10-08T11:40:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postjira -->
+      </class> <!-- qaclickacademy.APITest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
