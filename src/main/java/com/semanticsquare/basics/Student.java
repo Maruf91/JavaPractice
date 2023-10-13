@@ -14,7 +14,7 @@ public class Student {
 	private String name;
 	private String gender = "male";
 	
-	List<Course> enrolledCourses = new ArrayList<>();
+	List<Course> enrolledCourses = new ArrayList<Course>();
 
 	public String getName() {
 		return name;

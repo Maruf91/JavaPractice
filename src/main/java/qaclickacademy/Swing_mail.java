@@ -31,7 +31,6 @@ public class Swing_mail
 	      JButton button = new JButton("Click Me!");
 	      final JLabel label = new JLabel();
 	      button.addActionListener(new ActionListener() {
-	         @Override
 	         public void actionPerformed(ActionEvent e) {
 	            String result = (String)JOptionPane.showInputDialog(
 	               frame,

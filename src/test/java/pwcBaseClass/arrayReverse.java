@@ -41,6 +41,7 @@ public class arrayReverse {
 
 		arrayReverse ar=new arrayReverse();
 		ar.reverseArr(arr);
+		System.out.println("rev array: "+ar);
 	}
 
 }
